@@ -30,3 +30,10 @@ to rotate in a way that solves the puzzle. There are many ways to fix this.
 
 When stacking boxes (level 2), it can be helpful to drop and then click on the stacked box before it fully falls
 (in essence, catching the box repeatedly as it falls). This will allow you to lay it gently on the bottom box and prevents weird crash physics when the boxes collide.
+
+
+## Demo
+https://user-images.githubusercontent.com/52175208/189541453-2abf7492-f4cb-4de5-bb2f-e4a07cc8c0ca.mov
+
+
+
